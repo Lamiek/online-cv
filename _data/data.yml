@@ -58,33 +58,26 @@ career-profile:
       
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BEng Elecrtonic and Communication Engineering
+      university: Brunel University London
+      time: 2016 - 2019
       details: |
         Grade: Second Class Honors
 
 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BTEC Diploma Electrical and Electronic Engineering
+      university: Uxbridge College London
+      time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Grade: D*D*D
 
-          - worked closely with electrical and electronic technicians on testing Alternators
-            and starters.
-          - Assembling Alternators and starters.
-          - Learned an elaborate knowledge of Electrical and Electronic engineering. 
+          
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Intern Engineer
+      time: summer 2017
+      company: Chiltern Railways 
       details: |
           - Worked in re-designing and building of rollback test box.
           - Researching and identifying the cause of any possible faults
@@ -95,9 +88,9 @@ experiences:
             and soldering irons.
           - Learned about train reliability and producing vehicle maintenance and Technical Instructions.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Intern Technician
+      time: Nov 2013 - Dec 2013
+      company: Prestolite Electric
       details: |
           - Worked closely with electrical and electronic technicians on testing Alternators
             and starters.
