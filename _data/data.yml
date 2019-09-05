@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Lamiek Abraham
+    tagline: Electronic and Communication Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: lamiekabraham2010@yahoo.com
+    phone: 00447507842227
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
@@ -25,10 +25,10 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Tigrinja
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
       - idiom: Spanish
@@ -47,27 +47,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      A focused and committed graduate who possesses both knowledge and
+      competence in Electronic and Communication Engineering. I am 
+      Confident when working using my initiative and strong when working
+      as part of a team. I’ve always demonstrated high levels of
+      professionalism, effort and eagerness to learn when it comes to my
+      craft. I’m now looking for a role where my experience and knowledge
+      can be utilised and built upon, with a company that can offer a new challenge.
 
-      Second paragraph if required.
+      
 
 education:
     - degree: MSc in Computer Science
       university: University of London
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Grade: Second Class Honors
 
-          - Bullet point
-          - Bullet point
+
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -79,39 +76,34 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - worked closely with electrical and electronic technicians on testing Alternators
+            and starters.
+          - Assembling Alternators and starters.
+          - Learned an elaborate knowledge of Electrical and Electronic engineering. 
 
 experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+          - Worked in re-designing and building of rollback test box.
+          - Researching and identifying the cause of any possible faults
+            on Alternators.
+          - Investigating reoccurring defects for better performance for instance Alternator Raft.  
+          - Assisting in the process of testing products and writting reports.
+          - Extensive use of various laboratory equipments such as multimeters, oscilloscope
+            and soldering irons.
+          - Learned about train reliability and producing vehicle maintenance and Technical Instructions.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Worked closely with electrical and electronic technicians on testing Alternators
+            and starters.
+          - Assembling Alternators and starters.
+          - Learned an elaborate knowledge of Electrical and Electronic engineering. 
+         
 
     - role: UI Developer
       time: 2012 - 2014
